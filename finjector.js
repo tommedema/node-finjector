@@ -18,9 +18,6 @@ exports.inject = function(injectFile, injData, startDelimiter, endDelimiter, cb)
         
         /* validate */
         if (startLoc === -1 || endLoc === -1 || startLoc > endLoc) {
-            var util = require('util');
-            util.debug('startLoc: ' + startLoc);
-            util.debug('endLoc: ' + endLoc);
             return cb('cannot find start or end delimiter');
         }
         
