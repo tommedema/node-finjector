@@ -1,0 +1,25 @@
+{
+    "name" : "finjector",
+    "version" : "0.1.0",
+    "description" : "Injects a string to a file between given delimiters.",
+    "main" : "./finjector.js",
+    "dependencies" : {},
+    "devDependencies" : {
+        "vows" : ">= 0.5.11 < 0.6"
+    },
+    "repository" : {
+        "type" : "git",
+        "url" : "http://github.com/tommedema/node-finjector.git"
+    },
+    "keywords" : [
+        "inject",
+        "file",
+        "delimiter"
+    ],
+    "author" : {
+        "name" : "Tom Medema",
+        "email" : "tommedema@gmail.com"
+    },
+    "license" : "MIT/X11",
+    "engine" : ["node >=0.2.0"]
+}

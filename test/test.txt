@@ -1,0 +1,5 @@
+This is an example.
+
+/* routines-start */
+we would like this data to get replaced by our injection data
+/* routines-end */
