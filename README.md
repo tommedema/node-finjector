@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/tommedema/node-finjector.png)](http://travis-ci.org/tommedema/node-finjector)
 finjector
 ======
 
